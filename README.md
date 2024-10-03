@@ -2,7 +2,8 @@
 
 # 🌠 ChamakTweet 🐦✨
 
-<img src="https://github.com/devtayyabsajjad/ChamakTweet/blob/main/logo.jpg" alt="Logo" width="250" height="240">
+<img src="https://raw.githubusercontent.com/devtayyabsajjad/ChamakTweet/main/logo.jpg" alt="Logo" width="250" height="240">
+
 
 [![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com)
 [![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)](https://nextjs.org/)
